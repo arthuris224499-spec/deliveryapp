@@ -1,0 +1,7 @@
+{
+  "name": "คำนวณต้นทุนเดลิเวอรี่",
+  "description": "แอพคำนวณต้นทุนอาหารและตั้งราคาขายสำหรับช่องทางเดลิเวอรี่ (Grab, LINE MAN, ShopeeFood, Robinhood)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
